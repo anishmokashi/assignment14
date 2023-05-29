@@ -1,0 +1,18 @@
+.example-container  {
+    margin-left: 1000px;
+    max-width: 500px;
+    
+    margin: auto;}
+
+.container 
+{
+  align-items: center;
+  display: grid;
+  grid-template-columns: 900px 10%;
+}
+    
+    body 
+    {
+        text-align: center;
+    }
+    
